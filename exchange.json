@@ -1,0 +1,10 @@
+{
+  "main": "music-box-api.raml",
+  "name": "music-box-api",
+  "classifier": "raml",
+  "apiVersion": "v1",
+  "descriptorVersion": "1.0.0",
+  "groupId": null,
+  "assetId": "music-box-api",
+  "version": "1.0.0"
+}
